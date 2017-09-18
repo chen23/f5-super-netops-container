@@ -1,0 +1,11 @@
+{
+	"include":["base"],
+	"name":"f5-cccl",
+	"repos": [
+		{
+			"name":"f5-cccl",
+			"repo":"https://github.com/f5devcentral/f5-cccl.git",
+			"branch":"master"
+		}
+	]
+}
